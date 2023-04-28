@@ -5,6 +5,6 @@ import uk.gov.dwp.uc.pairtest.domain.TicketTypeRequest.Type;
 
 public interface CinemaTicketFactory {
 
-	CinemaTicket createCinemaTicket(Type type);
+    CinemaTicket createCinemaTicket(Type type);
 
 }
